@@ -14,7 +14,7 @@ These profiles will not work unless you have LLamaLibrary, Lisbeth and Exbuddy i
 
 You will need to purchase a Lisbeth key if you haven't already.
 
-You are now ready to start leveling! See [Step by Step Walthrough](https://github.com/Angles24/DoH80-DoL80/wiki/Step-by-Step-Walkthrough) which will explain what will happen throughout the leveling process and what settings to use in lisbeth and in game.
+You are now ready to start leveling! See [Step by Step Walkthrough](https://github.com/Angles24/DoH80-DoL80/wiki/Step-by-Step-Walkthrough) which will explain what will happen throughout the leveling process and what settings to use in lisbeth and in game.
 
 ## CN Client Users
 Yes this works for chinese aswell, I don't understand chinese however there are a bunch of CN players using these profiles!
